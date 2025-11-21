@@ -1,4 +1,4 @@
-#!/home/louis/workspace/github.com/LouiMali/asteroids/venv/bin/python3
+#!/home/louis/asteroids/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
